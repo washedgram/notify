@@ -9,13 +9,13 @@ Basic python function for sending toast notifications on Windows or macOS
 
 To use in another program, import the function:
 
-```
+```python
 from notify import notify
 ```
 
 The function takes title (top row) and body (bottom row) arguments respectively; you should be able to feed in any type of string. 
 
-```
+```python
 notify('Hello', 'world') # should be able to feed in pretty much whatever inputs you want
 ```
 
