@@ -13,7 +13,7 @@ To use in another program, import the function:
 from notify import notify
 ```
 
-The function takes title (top row) and body (bottom row) arguments respectively; you should be able to feed in any type of string. 
+The function takes title (top row) and body (bottom row) arguments respectively. 
 
 ```python
 notify('Hello', 'world') # should be able to feed in pretty much whatever inputs you want
