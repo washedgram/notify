@@ -8,6 +8,7 @@ For Linux to work you need to make a Slack webhook to receive notifications. You
 
 0. Install Python / Pip
 1. Install the rest of the python packages if you don't already have them
+2. Paste webhook in line 3 if necessary
 
 To use in another program, import the function:
 

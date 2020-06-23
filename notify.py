@@ -1,7 +1,7 @@
 import os, platform, requests, json, time
 # people running this on Windows will need to install win10toast, see below
 
-webhook = "https://hooks.slack.com/services/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"
+webhook = ""
 
 def notify(title, message):
     
